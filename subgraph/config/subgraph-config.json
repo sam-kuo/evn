@@ -1,0 +1,9 @@
+[
+  {
+    "network": "mainnet",
+    "daoFactoryAddress": "0x0000000000000000000000000000000000000000",
+    "daoFactoryStartBlock": 0,
+    "GITHUB_USERNAME": "openlawteam",
+    "SUBGRAPH_NAME": "museo"
+  }
+]
