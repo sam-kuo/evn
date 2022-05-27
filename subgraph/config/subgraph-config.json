@@ -1,0 +1,9 @@
+[
+  {
+    "network": "xdai",
+    "daoFactoryAddress": "0xd982A20D1c69704F54c8A33629555b4Ff0F54bf9",
+    "daoFactoryStartBlock": 19483820,
+    "GITHUB_USERNAME": "openlawteam",
+    "SUBGRAPH_NAME": "tribute"
+  }
+]
