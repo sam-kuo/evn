@@ -1,0 +1,9 @@
+[
+  {
+    "network": "harmonytest",
+    "daoFactoryAddress": "0x1f2C4901414734d2Cb024E343f549ED908f28Fd0",
+    "daoFactoryStartBlock": 18014514,
+    "GITHUB_USERNAME": "openlawteam",
+    "SUBGRAPH_NAME": "tribute"
+  }
+]
