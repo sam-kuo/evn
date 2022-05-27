@@ -1,0 +1,9 @@
+[
+  {
+    "network": "rinkeby",
+    "daoFactoryAddress": "0x586336275C1a4c181D35961f083C466a77b2961C",
+    "daoFactoryStartBlock": 9460035,
+    "GITHUB_USERNAME": "openlawteam",
+    "SUBGRAPH_NAME": "noise-dev"
+  }
+]
