@@ -1,0 +1,9 @@
+[
+  {
+    "network": "rinkeby",
+    "daoFactoryAddress": "0x24A295c9b5407F9f73A05C45C226d8b94CB7D5b9",
+    "daoFactoryStartBlock": 9333038,
+    "GITHUB_USERNAME": "openlawteam",
+    "SUBGRAPH_NAME": "tribute-dao-tutorial"
+  }
+]
